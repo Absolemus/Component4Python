@@ -1,0 +1,7 @@
+LIBRARY "Component4Python"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
